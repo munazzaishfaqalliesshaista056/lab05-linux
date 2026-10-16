@@ -1,0 +1,1 @@
+lab5user:x:1001:1001:Shaista,7,03145516780,056056,0314151623:/home/lab5user:/bin/bash
