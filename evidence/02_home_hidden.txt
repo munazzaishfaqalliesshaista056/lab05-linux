@@ -1,0 +1,15 @@
+total 56
+drwxr-x--- 9 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056 4096 Oct 16 04:34 .
+drwxr-xr-x 3 root                          root                          4096 Sep 16 17:16 ..
+-rw------- 1 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056  565 Oct 12 05:45 .bash_history
+-rw-r--r-- 1 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056 3771 Feb 13  2026 .bashrc
+drwx------ 2 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056 4096 Sep 16 17:58 .cache
+-rw-rw-r-- 1 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056  183 Oct 16 04:30 .gitconfig
+drwx------ 3 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056 4096 Oct 12 09:18 .local
+-rw-r--r-- 1 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056  807 Feb 13  2026 .profile
+drwx------ 2 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056 4096 Oct 16 04:30 .ssh
+drwxrwxr-x 5 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056 4096 Oct 12 07:31 Gitea
+drwxrwxr-x 5 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056 4096 Oct 16 04:35 lab05-linux
+drwxrwxr-x 2 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056 4096 Sep 21 07:02 mylab
+drwxrwxr-x 2 munazzaishfaqalliesshaista056 munazzaishfaqalliesshaista056 4096 Oct 12 09:18 portfolio

@@ -1,0 +1,1 @@
+/bin is a link to /usr/bin on this system. /usr/bin contains many commands installed by Ubuntu, such as ls. /usr/local/bin is commonly used for programs installed manually by an administrator. These directories help keep system-provided and locally installed programs organized.
